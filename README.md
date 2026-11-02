@@ -86,14 +86,16 @@ The logical outputs (Q0–Q8) of each CD4017 IC are connected through 220 Ohm re
 ## 🔋 Power Options
 
 - **9V PP3 Battery:** Provides portable, bright, and highly stable operation.
-
 <img width="561" height="607" alt="image" src="https://github.com/user-attachments/assets/5f368c5c-3c28-4596-a9d1-49cab993ffcc" />
-
-
 <img width="561" height="711" alt="image" src="https://github.com/user-attachments/assets/a7b3a2e5-b89b-46dd-8815-08141aa90d6b" />
 
 
 
+
+
+
+
+https://github.com/user-attachments/assets/39ea5f55-a13d-4a83-9a2f-853705d693f0
 
 
 
